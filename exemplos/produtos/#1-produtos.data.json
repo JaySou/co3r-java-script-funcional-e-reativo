@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nome": "coca cola",
+        "preco": 12.5,
+        "categoria": "bebidas"
+    },
+    {
+        "id": 2,
+        "nome": "suco",
+        "preco": 8.95,
+        "categoria": "bebidas"
+    },
+    {
+        "id": 3,
+        "nome": "Manga",
+        "preco": 29.95,
+        "categoria": "frutas"
+    },
+    {
+        "id": 4,
+        "nome": "Laranja",
+        "preco": 5.4,
+        "categoria": "frutas"
+    },
+    {
+        "id": 5,
+        "nome": "Goibada",
+        "preco": 29.95,
+        "categoria": "doces"
+    },
+    {
+        "id": 6,
+        "nome": "Nutela",
+        "preco": 5.4,
+        "categoria": "doces"
+    }
+]
