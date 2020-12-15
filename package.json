@@ -4,11 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "projeto": "node projeto_1_rxjs/index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "lodash": "^4.17.20",
     "rxjs": "^6.6.2",
     "xmlhttprequest": "^1.8.0"
   }
